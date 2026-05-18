@@ -25,7 +25,7 @@ This portfolio includes my reflections and official scouting report links. It do
 | Accuracy | 86.4% |
 | Completion | 94.4% |
 
-[View my NCL Spring 2026 Individual Game Scouting Report](./NCL Spring 2026 Team Game Scouting Report.pdf)
+[View my NCL Spring 2026 Individual Game Scouting Report](./NCL%20Spring%202026%20Team%20Game%20Scouting%20Report.pdf)
 
 ### Team Game, SANS.edu It Hit Prod
 
