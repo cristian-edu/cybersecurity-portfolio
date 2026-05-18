@@ -25,7 +25,7 @@ This portfolio includes my reflections and official scouting report links. It do
 | Accuracy | 86.4% |
 | Completion | 94.4% |
 
-[View my NCL Spring 2026 Individual Game Scouting Report](./NCL%20Spring%202026%20Team%20Game%20Scouting%20Report.pdf)
+[View my NCL Spring 2026 Individual Game Scouting Report](./NCL%20Spring%202026%20Individual%20Game%20Scouting%20Report.pdf)
 
 ### Team Game, SANS.edu It Hit Prod
 
@@ -36,6 +36,8 @@ This portfolio includes my reflections and official scouting report links. It do
 | Score | 2,985 / 3,000 |
 | Accuracy | 96.5% |
 | Completion | 99.5% |
+
+[View my NCL Spring 2026 Team Game Scouting Report](./NCL%20Spring%202026%20Team%20Game%20Scouting%20Report.pdf)
 
 ## My Game Takeaway
 
