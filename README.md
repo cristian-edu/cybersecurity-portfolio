@@ -3,7 +3,7 @@
 ## About Me
 Hello,
 
-I am a cybersecurity professional with hands-on experience in security operations, threat detection, and endpoint investigations. 
+I am a cybersecurity professional with hands-on experience in security operations, threat detection, and endpoint investigations. My interest in cybersecurity grew from wanting to understand the cat-and-mouse game between attackers and defenders in real-world environments.
 
 I am currently pursuing a **Bachelor of Science in Applied Cybersecurity** at the **SANS Technology Institute**, with an expected graduation date of **2027**. I am continuing to build practical skills across Windows forensics, detection engineering, incident response, and cloud security. 
 
