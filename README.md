@@ -13,4 +13,5 @@ I recently participated in the **National Cyber League Spring 2026** season thro
 
 This portfolio includes my reflections and official scouting report links. It does **not** include flags, answers, challenge walkthroughs, or solution details as per the CTF policy. 
 
-
+## Contact
+[linkedin profile](https://www.linkedin.com/in/ccarrillomendez/)
